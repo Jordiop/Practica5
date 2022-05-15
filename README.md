@@ -91,3 +91,7 @@ public class CalculadoraTest {
 
 ## Resultado tras tests
 ![image](https://user-images.githubusercontent.com/95173613/168472159-34f0755d-880c-4b94-977e-24b9e094b736.png)
+
+## Ramas
+![Diagrama](https://user-images.githubusercontent.com/95173613/168474727-456fe4ee-0a02-4a9d-8afb-baf7a65fa364.png)
+
